@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "JS is easy",
+      "author": "typicode"
+    },
+    {
+      "title": "Functional JavaScript",
+      "author": "Trayan",
+      "id": 4
+    },
+    {
+      "title": "Hello Async!",
+      "author": "TrAYAN",
+      "id": 9
+    },
+    {
+      "title": "Welcome to TS",
+      "author": "Trayan",
+      "id": 10
+    },
+    {
+      "title": "ASAs",
+      "author": "ASasA",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": {
+    "name": "typicode"
+  }
+}

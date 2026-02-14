@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Default",
+      "lastName": "Admin",
+      "username": "admin",
+      "passwod": "admin",
+      "role": "ADMIN"
+    },
+    {
+      "id": 2,
+      "firstName": "Default",
+      "lastName": "Author",
+      "username": "author",
+      "passwod": "author",
+      "role": "AUTHOR"
+    },
+    {
+      "id": 3,
+      "firstName": "Default",
+      "lastName": "Reader",
+      "username": "reader",
+      "passwod": "reader",
+      "role": "READER"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Logitech Mouse",
+      "price": 12.99,
+      "description": "Super mouse",
+      "imageUrl": "https://assets.logitech.com/assets/64683/performance-mouse-mx.png"
+    },
+    {
+      "id": 2,
+      "name": "Wireless Keyboard",
+      "price": 23.85,
+      "description": "Type whereever you are",
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/G/01/aplus/detail-page/B005DKZTMG_K400_FOB_US_lg.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Whiteboard Marker",
+      "price": 0.32,
+      "description": "Drawing is fun",
+      "imageUrl": "https://www.esquoia.com/wp-content/uploads/2016/09/whiteboard-markers.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Lenovo Laptop",
+      "price": 1280,
+      "description": "Lenovo traveller",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lenovo_ThinkPad_X1_Ultrabook.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Coffe Best Taste",
+      "price": 28,
+      "description": "Lavaza BLue",
+      "imageUrl": "http://doctorakil.com/wp-content/uploads/2018/01/coffee-940x600.jpg"
+    },
+    {
+      "name": "Coffe Best One AAA",
+      "price": 12.5,
+      "description": "Lavaza",
+      "imageUrl": "https://www.publicdomainpictures.net/pictures/250000/velka/mars-1515656849bmH.jpg",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Beemer",
+      "price": 998,
+      "description": "Prusa 3D Printer",
+      "imageUrl": "https://www.prusa3d.com/content/images/product/default/2280.jpg"
+    }
+  ],
+  "comments": []
+}
